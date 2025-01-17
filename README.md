@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Azure Expense Tracker](https://github.com/kkshivani18/Azure-Expense-Tracker)
 
-- 🌱 I’m currently learning **Cloud, DevOps, frontend and backend skills**
+- 📈 I’m currently learning **Cloud, DevOps, frontend and backend skills**
 
 - 📝 I regularly write articles on [https://medium.com/@kkrishnashivani18](https://medium.com/@kkrishnashivani18)
 

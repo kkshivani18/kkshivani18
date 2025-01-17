@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm K. Krishna Shivani</h1>
-<h3 align="center"> ☁️ Exploring the Cloud </h3>
+<h3 align="center"> Exploring the Cloud ☁️ </h3>
 
 - 🔭 I’m currently working on [Azure Expense Tracker](https://github.com/kkshivani18/Azure-Expense-Tracker)
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Upvote Consulting Services](https://upvoteconsulting.com) as an Intern
 
-- 📈 I’m currently learning **Cloud, DevOps, Development skills**
+- 📈 I’m currently learning **Development, Cloud & DevOps skills**
 
 - 📝 I regularly write articles on <a href="https://medium.com/@kkrishnashivani18" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 

@@ -42,6 +42,11 @@
   <img src="https://skillicons.dev/icons?i=azure,gcp,aws" alt="cloud skills" />
 </p>
 
+### DevOps Toolkit
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,github-actions,git,docker" alt="DevOps Skills" />
+</p>
+
 
 ### Other Skills and Tools
 <p align="left">

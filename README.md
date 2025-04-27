@@ -34,10 +34,10 @@
 
 
 ### Cloud
-<p align="left"> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws" alt="cloud skills" />
 </p>
+
 
 ### Other Skills and Tools
 <p align="left"> 

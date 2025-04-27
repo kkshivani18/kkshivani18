@@ -5,7 +5,8 @@
 
 - 📈 I’m currently learning **Development, Cloud & DevOps skills**
 
-- 📝 I regularly write articles on <a href="https://medium.com/@kkrishnashivani18" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+- 📝 I regularly write articles on <a href="https://medium.com/@kkrishnashivani18" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="Medium" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -44,7 +44,7 @@
 
 ### DevOps Toolkit
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,git" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions" alt="DevOps Skills" />
 </p>
 
 

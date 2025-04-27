@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://medium.com" target="_blank" rel="noreferrer">
-    <img src="https://iconmonstr.com/wp-content/uploads/2017/06/0335.svg" alt="Medium" width="40" height="40"/>
+  <a href="https://linkedin.com/in/kkshivani" target="blank">
+    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/3536/3536505.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-
-  <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
-    <img src="https://iconmonstr.com/wp-content/uploads/2017/05/0319.svg" alt="LinkedIn" width="40" height="40"/>
+  
+  <a href="https://medium.com/@kkrishnashivani18" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="Medium" height="30" width="40" />
   </a>
 </p>
 

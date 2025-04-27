@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm K. Krishna Shivani</h1>
-<h3 align="center"> Exploring and learning Cloud ☁️ </h3>
+<h3 align="center"> Exploring and learning Cloud ☁️ </h3>  
 
 - 🔭 I’m currently working at [Upvote Consulting Services](https://upvoteconsulting.com) as an Intern
 
 - 📈 I’m currently learning **Development, Cloud & DevOps skills**
 
-- 📝 I regularly write articles on  <a href="https://medium.com/@kkrishnashivani18" target="blank"> 
+- 📝 I regularly write articles on <a href="https://medium.com/@kkrishnashivani18" target="blank"> 
       <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504925.png" alt="Medium" height="40" width="40" /></a>
-
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kkshivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kkshivani" height="30" width="40" /></a>

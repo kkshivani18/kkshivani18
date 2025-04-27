@@ -42,7 +42,7 @@
 ### Other Skills and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bash,git,linux,mongodb,mysql,postman,pytorch" alt="tools and databases" />
-</p>
+</p>  
 
 
 <h3>Where to find me</h3>

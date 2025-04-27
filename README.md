@@ -10,11 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://medium.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Medium_logo_2017.svg" alt="Medium" width="40" height="40"/>
+    <img src="https://iconmonstr.com/wp-content/uploads/2017/06/0335.svg" alt="Medium" width="40" height="40"/>
   </a>
 
   <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://iconmonstr.com/wp-content/uploads/2017/05/0319.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 

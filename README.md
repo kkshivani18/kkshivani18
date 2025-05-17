@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm K. Krishna Shivani</h1>
-<h3 align="center"> Exploring and learning Cloud ☁️ </h3>
+<!-- <h3 align="center"> Exploring and learning Cloud ☁️ </h3> -->
 
 - 🔭 I’m currently working at [Upvote Consulting Services](https://upvoteconsulting.com) as an Intern
 
